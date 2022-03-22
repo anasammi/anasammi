@@ -1,5 +1,8 @@
 ## Oi! Eu sou a Ana Sammi 👋
 
+- 👩🏻‍💻 Procurando emprego como desenvolvedora Front end.
+- 📖 Estudando Typescript e Node.js.
+
 <div>
   <a href="https://github.com/anasammi">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anasammi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
