@@ -1,7 +1,7 @@
 ## Hi! I'm Ana Sammi 👋
 
 - 👩🏻‍💻 Front-end Web Developer
-- 📖 Learing: Typescript e Node.js.
+- 📖 Learning: Typescript e Node.js.
 
 <div>
   <a href="https://github.com/anasammi">
