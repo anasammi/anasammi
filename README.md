@@ -1,7 +1,7 @@
-## Oi! Eu sou a Ana Sammi 👋
+## Hi! I'm Ana Sammi 👋
 
-- 👩🏻‍💻 Procurando emprego como desenvolvedora Front end.
-- 📖 Estudando Typescript e Node.js.
+- 👩🏻‍💻 Front-end Web Developer
+- 📖 Learing: Typescript e Node.js.
 
 <div>
   <a href="https://github.com/anasammi">
