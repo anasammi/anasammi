@@ -12,7 +12,7 @@
   
  </div>
 
-<div align="center">
+<div style="display: inline_block" align="center">
  
   <a href="https://github.com/anasammi">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anasammi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
