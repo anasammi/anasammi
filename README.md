@@ -3,7 +3,7 @@
 # Hi! I'm Ana Sammi <img align="center" alt="Ana-gif" height="100" style="border-radius:50px;" src="https://media.giphy.com/media/PxQLHIvfJoQ5jQTDSx/giphy.gif">
 
 ### ♥ Front-end Web Developer 👩🏻‍💻 <br/>
-### ♥ Learning: Typescript and Node.js 📖 
+### ♥ Learning: Typescript, Node.js and MySQL 📖 
 </div>
 <br/>
 <div align="center">
