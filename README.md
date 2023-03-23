@@ -3,7 +3,7 @@
 # 🖖 Hi! I'm Ana Sammi <img align="center" alt="Ana-gif" height="100" style="border-radius:50px;" src="https://media.giphy.com/media/PxQLHIvfJoQ5jQTDSx/giphy.gif">
 
 ### ♥ FullStack Web Developer 👩🏻‍💻 <br/>
-  ### ♥ Currently working as: Pedagogical monitor at <a href="https://www.labenu.com.br/">Labenu</a> 👩🏻‍🏫
+  ### ♥ Currently working as: Fullstack Instructor at <a href="https://www.labenu.com.br/">Labenu</a> 👩🏻‍🏫
 </div>
 <br/>
 <div align="center">
